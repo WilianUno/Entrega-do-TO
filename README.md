@@ -8,3 +8,10 @@ Entrega do TO Entrega do Trabalho individual TO, modelagem do estudo de caso da 
 Modelos desenvolvidos durante a aula do dia 30/08/2024.
 
 ### Realização até as 23h59min do dia 30 de Agosto de 2024
+
+
+# 3 - Exercício 1- Sistema Hospitalar
+Modelo conceitual/Domínio/Classes de Análise.
+
+### Realização até as 22h35min do dia 09 de Agosto de 2024
+
