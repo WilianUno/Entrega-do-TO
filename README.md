@@ -15,3 +15,9 @@ Modelo conceitual/Domínio/Classes de Análise.
 
 ### Realização até as 22h35min do dia 09 de Agosto de 2024
 
+
+# 4 - Correção do modelo de casos de uso do estudo de caso de Atendimento Hospitalar
+Para continuação da aula do dia 02/08, finalizar a modelagem de casos de uso do sistema de atendimento hospitalar.
+
+### Realização até as 18h59min do dia 09 de Agosto de 2024
+
